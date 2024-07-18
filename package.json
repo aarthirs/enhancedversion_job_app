@@ -19,6 +19,11 @@
     "react-icons": "4.2.0",
     "react-loader-spinner": "4.0.0",
     "react-router-dom": "5.2.0"
+    {
+  "engines": {
+    "node": "20.x"
+  }
+}
   },
   "devDependencies": {
     "eslint-config-airbnb": "18.2.1",
